@@ -182,4 +182,3 @@ GitHub: https://github.com/bigmosi/pesa-clinic.git
 
 ## License
 
-This project is part of a technical assignment.
